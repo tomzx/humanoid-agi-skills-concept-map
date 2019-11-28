@@ -10,6 +10,8 @@ The concept map can have multiple purposes:
 
 In order to keep the concept map simple and focused on the topic, the **Humanoid/AGI Skills Concept Map** depends on the [**AGI Concept Map**](https://github.com/tomzx/agi-concept-map).
 
+[![Concept map](map.svg)](map.svg)
+
 ## Contributing
 
 To view and explore this concept map, you will need a [GraphML](https://en.wikipedia.org/wiki/GraphML) compatible application. In order to edit this graph, I've personally been using [yEd](https://www.yworks.com/products/yed).
